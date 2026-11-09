@@ -109,6 +109,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 ### Document Processing
 
 - [docx](https://github.com/anthropics/skills/tree/main/skills/docx) - Create, edit, analyze Word docs with tracked changes, comments, formatting.
+- [Folio](https://github.com/jakubro/folio/tree/main/plugin/skills/folio) - Writes markdown documents for Folio, a live view of a folder of markdown and data in the browser: includes instead of copies, tables, values and Vega-Lite charts embedded from data files and SQL queries, and figures checked against their data. *By [@jakubro](https://github.com/jakubro)*
 - [pdf](https://github.com/anthropics/skills/tree/main/skills/pdf) - Extract text, tables, metadata, merge & annotate PDFs.
 - [pptx](https://github.com/anthropics/skills/tree/main/skills/pptx) - Read, generate, and adjust slides, layouts, templates.
 - [xlsx](https://github.com/anthropics/skills/tree/main/skills/xlsx) - Spreadsheet manipulation: formulas, charts, data transformations.
